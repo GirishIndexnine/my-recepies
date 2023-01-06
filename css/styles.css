@@ -1,0 +1,41 @@
+
+.recepies{
+    color: rgb(10, 74, 212);
+    padding: 50px;
+    padding-bottom: 0px;
+    margin-left: 570px;
+}
+.paneer_dishes {
+    padding: 50px;
+    margin-left: 600px;
+}
+h1{
+    padding-left: 570px;
+}
+img{
+    padding-left: 575px;
+}
+p{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+h3{
+    padding-left: 625px;
+}
+.steps{
+    padding-left: 645px;
+}
+ul,ol{
+    padding-left: 600px;
+}
+.shahi{
+    padding-left: 600px;
+}
+.butter{
+    padding-left: 540px;
+}
+.palak{
+    padding-left: 620px;
+}
+
+
